@@ -1,0 +1,10 @@
+9
+Susana Torio De_La_Fuente Albondiga Perro 2 +56-9-12345678 6 si 29/04/2018
+Repti Liano Subterra Dino Dinosaurio 65 +56-9-45645645 17 si 00/00/0001
+Adam Antium De_Wolve Garras Jaguar 10 +56-9-15975346 0 no 23/05/1999
+Saint Seiya De_Sagitario Armadura Pegaso 2000 +56-9-11111111 20 no 24/12/2000
+Ash Ketchum De_Pueblo_Paleta Hoshigumo_chan Pokemon 0 +56-9-ARORA123 15 si 11/11/2017
+Roberto Del_Monte Sur Cachupin Elefante 25 +56-9-87552133 18 no 21/04/2019
+Francis Tein Dead Zombot Zombie 204 +56-9-66654856 23 no 05/01/1990
+Repti Liano Subterra Many Mamut 655 +56-9-45645645 24 si 00/08/0081
+Repti Liano Subterra Manquehuito Uvasto 120 +56-9-456565645 1 si 00/08/0581
